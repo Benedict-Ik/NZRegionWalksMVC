@@ -1,2 +1,1 @@
-Here is what we did in this branch:  
-
+Here we initialized a repository of an MVC application.
