@@ -32,3 +32,4 @@ C:\Users\bened\OneDrive\Documents\Projects\CSharp\SameerSainiNZRegionWalksSln\NZ
 C:\Users\bened\OneDrive\Documents\Projects\CSharp\SameerSainiNZRegionWalksSln\NZRegionWalksMVC\obj\Debug\net8.0\NZRegionWalksMVC.pdb
 C:\Users\bened\OneDrive\Documents\Projects\CSharp\SameerSainiNZRegionWalksSln\NZRegionWalksMVC\obj\Debug\net8.0\NZRegionWalksMVC.genruntimeconfig.cache
 C:\Users\bened\OneDrive\Documents\Projects\CSharp\SameerSainiNZRegionWalksSln\NZRegionWalksMVC\obj\Debug\net8.0\ref\NZRegionWalksMVC.dll
+C:\Users\bened\OneDrive\Documents\Projects\CSharp\SameerSainiNZRegionWalksSln\NZRegionWalksMVC\obj\Debug\net8.0\NZRegionWalksMVC.sourcelink.json
